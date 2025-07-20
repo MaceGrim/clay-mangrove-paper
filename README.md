@@ -38,7 +38,7 @@ Performs comprehensive QA analysis including:
 
 - `generate_embedding_area.py` - Generate spatial polygons for embedding extraction
 - `mangrove_candidate_mask.gpkg` - Generated polygon mask showing embedding extent (view in GIS tools for validation)
-- `calculate_embedding_coverage_fixed.py` - Calculate mangrove coverage percentages
+- `calculate_embedding_coverage.py` - Calculate mangrove coverage percentages
 - `mangrove_coverage_qa.ipynb` - Quality assurance and analysis notebook
 
 ## Environment Setup
